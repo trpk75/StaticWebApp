@@ -1,0 +1,9 @@
+{
+  "name": "static-web-app-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API functions for the Static Web App",
+  "scripts": {
+    "start": "func start"
+  }
+}
